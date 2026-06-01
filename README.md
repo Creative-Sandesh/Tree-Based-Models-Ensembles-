@@ -522,13 +522,7 @@ Potential extensions:
 
 ---
 
-## 🎓 AI Fellowship Program
 
-This repository is part of the AI Fellowship Program's Week 5 curriculum on:
-
-**Tree-Based Models, Ensemble Learning, Explainable AI, and Production Machine Learning Engineering.**
-
----
 
 ## 📜 License
 
@@ -538,6 +532,6 @@ Feel free to fork, experiment, and extend the implementation.
 
 ---
 
-### 💡 Fellowship Reminder
+### 💡 Reminder
 
 > Automated tests validate your implementation, but the quality of your written explanations, analytical reasoning, and interpretation of results are equally important. Focus on understanding *why* a model behaves a certain way, not just achieving a high score.
